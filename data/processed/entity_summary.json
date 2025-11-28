@@ -1,0 +1,6 @@
+{
+    "PRIMARY_ENTITY": "card1",
+    "SECONDARY_ENTITY": ["card1", "addr1"],
+    "DEVICE_ENTITY": "DeviceInfo",
+    "EMAIL_ENTITY": "P_emaildomain"
+}
